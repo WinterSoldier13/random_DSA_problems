@@ -30,6 +30,7 @@ def updateStatus(index : int):
         main()
     else:
         df2 = df
+        # Not the right way.... anyways
         try:
             df2['status'][index] = 'Y'
             df2.to_csv("./questions.csv")
