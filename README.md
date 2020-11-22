@@ -7,6 +7,10 @@ Pandas
 
 ## How to use?
 Run `python3 getQuestion.py`
+### Pro tip
+Do `chmod +x fileName.py` in linux and use `pyinstaller` for windows to compile it to executable.
 
 ## Contributions
 There are many bugs... you are welcome to create a PR.
+
+
