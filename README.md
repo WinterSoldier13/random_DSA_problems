@@ -1,5 +1,5 @@
 # random_DSA_problems
-Get Random DSA questions thorugh your terminal. Based on the 450 DSA questions Worksheet by Love Babbar.
+Get Random DSA questions through your terminal. Based on the 450 DSA questions Worksheet by Love Babbar.
 
 ## Requirements
 Python 3.x and
