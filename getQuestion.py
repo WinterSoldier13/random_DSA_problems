@@ -9,7 +9,7 @@ l = len(df['status'])
 def getRandom():
     index = random.randint(0, l)
 
-    if(df['link'][index] == "NaN" or df['status'][index] == 'Y'):
+    if(df['link'][index] == "NaN" or df['status'][index] == 'Y' or df['problem'][index] == ''):
         return getRandom()
     return index
 
